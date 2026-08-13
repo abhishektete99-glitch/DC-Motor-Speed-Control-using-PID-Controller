@@ -101,4 +101,3 @@ The **tuned PID controller** (`P = 0.2146`, `I = 5.2665`, `D = 0.0021659`) achie
 - Simscape Electrical  
 
 ---
-# DC-Motor-Speed-Control-using-PID-Controller
